@@ -7,7 +7,7 @@ age,gender,review,education,purchased
 31,Female,Average,School,Yes
 18,Male,Good,School,No
 60,Female,Poor,School,Yes
-65,Female,Average,UG,No
+64,Female,Average,UG,No
 74,Male,Good,UG,Yes
 98,Female,Good,UG,Yes
 74,Male,Good,UG,Yes
